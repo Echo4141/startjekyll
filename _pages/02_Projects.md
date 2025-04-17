@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Projects"
-permalink: /startjekyll/projects/
+permalink: /projects/
 ---
 
 <style>
