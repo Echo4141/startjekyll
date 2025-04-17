@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
+permalink: /startjekyll/contact/
 ---
 
 Contact content goes here.

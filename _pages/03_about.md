@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /startjekyll/about/
 ---
 
 About content goes here.
