@@ -19,6 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is Echo4141's website.
 baseurl: "/startjekyll" # the subpath of your site, e.g. /blog
 url: "https://echo4141.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+1url: "/startjekyll/"
 twitter_username:
 github_username:  Echo4141
 
